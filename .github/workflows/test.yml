@@ -8,7 +8,7 @@ jobs:
   automate-project-columns:
     runs-on: ubuntu-latest
     steps:
-      - uses: hayuna/github-project-automation-plus@v3.0.6
+      - uses: hayuna/github-project-automation-plus@v3.0.7
         with:
           project: Backlog
           column: Todo
