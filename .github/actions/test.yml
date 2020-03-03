@@ -12,5 +12,5 @@ jobs:
         with:
           project: Backlog
           column: Todo
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.GH_TOKEN }}
 
